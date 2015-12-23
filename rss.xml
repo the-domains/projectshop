@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[projectshop]]></title>
         <description><![CDATA[projectshop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/projectshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 19:22:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 19:49:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/projectshop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20162cc7-ac2f-485e-884f-f0d490d16573.jpg">]]></description>
+            <link>https://thegrid.ai/projectshop/85aebbb2-7409-48d5-98e6-613ccb287384/index.html</link>
+            <guid isPermaLink="false">85aebbb2-7409-48d5-98e6-613ccb287384</guid>
+            <pubDate>Wed, 23 Dec 2015 19:49:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Project]]></title>
-            <description><![CDATA[<article><h1>First Project</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df44f791-fa30-491b-aaf7-a212c50559f1.JPG"></article>]]></description>
-            <link>undefinedfirst-project/index.html</link>
+            <description><![CDATA[<article><h1>First Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f11d95c10a3625d06f093c114606772f738258.jpg"></article>]]></description>
+            <link>https://thegrid.ai/projectshop/first-project/index.html</link>
             <guid isPermaLink="false">d34f0f88-cb71-4b1a-825c-30525f684c33</guid>
             <pubDate>Wed, 23 Dec 2015 19:21:57 GMT</pubDate>
         </item>
